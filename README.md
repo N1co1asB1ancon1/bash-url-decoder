@@ -7,13 +7,12 @@ and spit back to you:
 
 i am a cat meow meow
 
-$WE DON'T USE PYTHON MODULES HERE BOY!
-HOW TO
+# HOW TO
 
-GET SCRIPT 
+# GET SCRIPT 
 git clone or download zip idk
 
-EXECUTE
+ # EXECUTE
 Just do 
 
 $ sh url-decoder.sh
